@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>rec.qrc</file>
+    <file>imgs/1.png</file>
+    <file>imgs/关闭.png</file>
+  </qresource>
+</RCC>
